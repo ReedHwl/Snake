@@ -257,7 +257,7 @@ window.snake.scheme = function(settings = {}) {
         
         if(settings.burger || settings.cactus || settings.hotdog || settings.egg || settings.lime || settings.red_pepper) {
           let burg = new Image();
-          burg.src = 'https://lh3.googleusercontent.com/pw/AM-JKLXwPZQZryCdsb8P8ZfKVx2v3lhpUIT_gULxbx2zArf429aC4zYRyXsVycbRZjAx9PkfhzkQxMdC3-gjn9Hg7zRu0U0lQZc0ffNX9IpTKnqQn7opc5C3YIA4Rdjh_aJbK1R3haJYqdnH_cYWknWYiKsx=s512-no?authuser=0';
+          burg.src = 'https://i.imgur.com/cuVaUxn.png';
           burg.width = burg.height = 47;
           burg.className = 'DqMRee SsAred';
 
@@ -298,7 +298,7 @@ window.snake.scheme = function(settings = {}) {
           settings.red_pepper && document.querySelector('#apple').appendChild(pepper);
 
 
-          eval(`var bu_ = new Image(); bu_.src = 'https://lh3.googleusercontent.com/pw/AM-JKLXwPZQZryCdsb8P8ZfKVx2v3lhpUIT_gULxbx2zArf429aC4zYRyXsVycbRZjAx9PkfhzkQxMdC3-gjn9Hg7zRu0U0lQZc0ffNX9IpTKnqQn7opc5C3YIA4Rdjh_aJbK1R3haJYqdnH_cYWknWYiKsx=s512-no?authuser=0';`);
+          eval(`var bu_ = new Image(); bu_.src = 'https://i.imgur.com/cuVaUxn.png';`);
           eval(`var ca_ = new Image(); ca_.src = 'https://i.postimg.cc/RCDVL7Bf/index.png';`);
           eval(`var do_ = new Image(); do_.src = 'https://i.postimg.cc/rsrbW0x6/dog.png';`);
           eval(`var eg_ = new Image(); eg_.src = 'https://i.postimg.cc/501jDL9g/eg.png';`);
