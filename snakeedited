@@ -259,7 +259,7 @@ window.snake.scheme = function(settings = {}) {
           let burg = new Image();
           burg.src = 'https://i.imgur.com/cuVaUxn.png';
           burg.width = burg.height = 47;
-          burg.className = 'DqMRee SsAred';
+          burg.className = 's';
 
           let cact = new Image();
           cact.src = 'https://i.postimg.cc/RCDVL7Bf/index.png';
