@@ -298,7 +298,7 @@ window.snake.scheme = function(settings = {}) {
           settings.red_pepper && document.querySelector('#apple').appendChild(pepper);
 
 
-          eval(`var bu_ = new Image(); bu_.src = 'https://i.postimg.cc/B6ycxmBb/porga.png';`);
+          eval(`var bu_ = new Image(); bu_.src = 'https://i.postimg.cc/B6ycxmBb/cat.png';`);
           eval(`var ca_ = new Image(); ca_.src = 'https://i.postimg.cc/RCDVL7Bf/index.png';`);
           eval(`var do_ = new Image(); do_.src = 'https://i.postimg.cc/rsrbW0x6/dog.png';`);
           eval(`var eg_ = new Image(); eg_.src = 'https://i.postimg.cc/501jDL9g/eg.png';`);
