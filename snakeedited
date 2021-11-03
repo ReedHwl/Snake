@@ -257,7 +257,7 @@ window.snake.scheme = function(settings = {}) {
         
         if(settings.burger || settings.cactus || settings.hotdog || settings.egg || settings.lime || settings.red_pepper) {
           let burg = new Image();
-          burg.src = 'https://i.postimg.cc/B6ycxmBb/porga.png';
+          burg.src = 'https://lh3.googleusercontent.com/pw/AM-JKLXwPZQZryCdsb8P8ZfKVx2v3lhpUIT_gULxbx2zArf429aC4zYRyXsVycbRZjAx9PkfhzkQxMdC3-gjn9Hg7zRu0U0lQZc0ffNX9IpTKnqQn7opc5C3YIA4Rdjh_aJbK1R3haJYqdnH_cYWknWYiKsx=s512-no?authuser=0';
           burg.width = burg.height = 47;
           burg.className = 'DqMRee SsAred';
 
