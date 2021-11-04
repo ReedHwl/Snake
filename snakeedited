@@ -257,9 +257,9 @@ window.snake.scheme = function(settings = {}) {
         
         if(settings.burger || settings.cactus || settings.hotdog || settings.egg || settings.lime || settings.red_pepper) {
           let burg = new Image();
-          burg.src = 'https://i.imgur.com/cuVaUxn.png';
+          burg.src = 'https://i.postimg.cc/B6ycxmBb/porga.png';
           burg.width = burg.height = 47;
-          burg.className = 's';
+          burg.className = 'DqMRee SsAred';
 
           let cact = new Image();
           cact.src = 'https://i.postimg.cc/RCDVL7Bf/index.png';
@@ -272,7 +272,7 @@ window.snake.scheme = function(settings = {}) {
           dog.className = 'DqMRee SsAred';
 
           let egg = new Image();
-          egg.src = 'https://i.imgur.com/cuVaUxn.png';
+          egg.src = 'https://i.postimg.cc/501jDL9g/eg.png';
           egg.width = egg.height = 47;
           egg.className = 'DqMRee SsAred';
 
@@ -298,10 +298,10 @@ window.snake.scheme = function(settings = {}) {
           settings.red_pepper && document.querySelector('#apple').appendChild(pepper);
 
 
-          eval(`var bu_ = new Image(); bu_.src = 'https://i.postimg.cc/FzNHTLTW/cuVaUxn.png';`);
-          eval(`var ca_ = new Image(); ca_.src = 'https://i.postimg.cc/FzNHTLTW/cuVaUxn.png';`);
+          eval(`var bu_ = new Image(); bu_.src = 'https://i.postimg.cc/B6ycxmBb/porga.png';`);
+          eval(`var ca_ = new Image(); ca_.src = 'https://i.postimg.cc/RCDVL7Bf/index.png';`);
           eval(`var do_ = new Image(); do_.src = 'https://i.postimg.cc/rsrbW0x6/dog.png';`);
-          eval(`var eg_ = new Image(); eg_.src = 'https://i.imgur.com/cuVaUxn.png';`);
+          eval(`var eg_ = new Image(); eg_.src = 'https://i.postimg.cc/501jDL9g/eg.png';`);
           eval(`var li_ = new Image(); li_.src = 'https://i.postimg.cc/k5kWcyFB/lime.png';`);
           eval(`var pe_ = new Image(); pe_.src = 'https://i.postimg.cc/BQqHMbDc/redpepper.png';`);
           eval(
